@@ -1,6 +1,4 @@
 import React from "react";
-import Github from "../../public/github.svg";
-import Instagram from "../../public/instagram.svg";
 
 const Footer = () => {
   return (
